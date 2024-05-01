@@ -1,1 +1,1 @@
-#weather app with except daily and hourly
+#weather app with except daily and hourly  with toast notification
